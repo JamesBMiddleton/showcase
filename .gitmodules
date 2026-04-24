@@ -1,0 +1,6 @@
+[submodule "software-renderer-demo"]
+	path = software-renderer-demo
+	url = https://github.com/JamesBMiddleton/software-renderer-demo
+[submodule "MicrocontrollerANN"]
+	path = MicrocontrollerANN
+	url = https://github.com/JamesBMiddleton/MicrocontrollerANN
