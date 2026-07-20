@@ -4,3 +4,6 @@
 [submodule "MicrocontrollerANN"]
 	path = MicrocontrollerANN
 	url = https://github.com/JamesBMiddleton/MicrocontrollerANN
+[submodule "rpi0w-yocto-llm"]
+	path = rpi0w-yocto-llm
+	url = git@github.com:JamesBMiddleton/rpi0w-yocto-llm.git
